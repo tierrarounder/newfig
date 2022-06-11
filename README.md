@@ -15,6 +15,9 @@ touch Dockerfile
 [[run Visualstudio and open Dockerfile]]
 [[at 23 minute mark]]
 
+[[WORKFLOW: Edit Dockerfile, save, then run 'docker build' command]]
+
+
 FROM fedora:latest
 RUN yum install -y figlet
 [[save]]
