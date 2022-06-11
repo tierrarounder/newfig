@@ -65,3 +65,23 @@ optiflex@optiflex-Inspiron-570:~/dockersand/figlet$ sudo docker run newfig
 
 docker build --tag tierrarounder/newfig:latest .
 [[must upgrade to PRO]]
+
+[[ from shy ruparel's ]]
+
+sudo docker pull shyruparel/figlet
+
+sudo docker run shyruparel/figlet
+ _   _ _       _ ____    _   _       _   _             
+| | | (_)     | / ___|  | \ | | __ _| |_(_) ___  _ __  
+| |_| | |  _  | \___ \  |  \| |/ _` | __| |/ _ \| '_ \ 
+|  _  | | | |_| |___) | | |\  | (_| | |_| | (_) | | | |
+|_| |_|_|  \___/|____/  |_| \_|\__,_|\__|_|\___/|_| |_|
+                                                       
+sudo docker run shyruparel/figlet uR moM
+       ____                    __  __ 
+ _   _|  _ \   _ __ ___   ___ |  \/  |
+| | | | |_) | | '_ ` _ \ / _ \| |\/| |
+| |_| |  _ <  | | | | | | (_) | |  | |
+ \__,_|_| \_\ |_| |_| |_|\___/|_|  |_|
+                                      
+optiflex@optiflex-Inspiron-570:~$ 
